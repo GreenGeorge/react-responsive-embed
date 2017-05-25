@@ -43,5 +43,8 @@
   "bugs": {
     "url": "https://github.com/tableflip/react-responsive-embed/issues"
   },
-  "homepage": "https://github.com/tableflip/react-responsive-embed#readme"
+  "homepage": "https://github.com/tableflip/react-responsive-embed#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
 }
